@@ -1,0 +1,20 @@
+DLL CREDITS:
+
+memcheckbypass
+https://github.com/RexiRexii/memory-check-bypass
+
+
+Programs used to make dll:
+
+IDA Freeware
+
+https://hex-rays.com/ida-free/
+
+Visual Studio 2022/2019
+
+https://visualstudio.microsoft.com/vs/older-downloads/
+
+Check Cashed, by louka
+
+Couldn't find the download link sorry :3
+
