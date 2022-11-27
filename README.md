@@ -4,8 +4,6 @@
 * We make almost **all** our projects **open source** so users can check / confirm that the software so not contain any **malware!** (yes we know users can crack it)
 # What does the release contain?
 * Default **XYZ** with nothing changed we may update something here for beta testing!
-# Copyright information
-* **Copyright XYZ LTD 2021 - 2022**
 # Documentation
 * **Coming soon!**
 # Support me!
